@@ -4,6 +4,7 @@ import Header from '../components/headerComponent';
 import MyCard from '../components/cardComponent';
 import MyFooter from '../components/footerComponent';
 import { Container, Row, Col } from 'react-bootstrap';
+//interface working
 interface News {
     title: string;
     description: string;
